@@ -11,3 +11,6 @@ mod 'nanliu/staging', '1.0.0'
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git',
   :ref => '85eb1f5aebac4b77a4a1eb2bfd55df09e6240a98'
+
+mod 'profiles',
+  :git => 'https://github.com/puppetassignment/puppet-helloworld.git' 
