@@ -13,4 +13,4 @@ mod 'helloworld',
   :ref => '85eb1f5aebac4b77a4a1eb2bfd55df09e6240a98'
 
 mod 'profiles',
-  :git => 'https://github.com/puppetassignment/puppet-helloworld.git' 
+  :git => 'https://github.com/puppetassignment/profiles.git' 
