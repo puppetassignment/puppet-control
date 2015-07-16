@@ -6,6 +6,9 @@ mod 'puppetlabs/apt', '0.0.3'
 mod 'puppetlabs/java', '1.4.0'
 mod 'darin/zypprepo', '1.0.1'
 mod 'nanliu/staging', '1.0.0'
+mod 'puppetlabs/apache'
+mod 'puppetlabs/mysql'
+mod 'example42/php'
 
 
 mod 'helloworld',
