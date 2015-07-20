@@ -9,7 +9,7 @@ mod 'darin/zypprepo', '1.0.1'
 mod 'nanliu/staging', '1.0.0'
 mod 'puppetlabs/apache'
 mod 'puppetlabs/mysql'
-mod 'example42/php'
+mod 'mayflower/php'
 mod 'puppetlabs/inifile'
 mod 'example42/yum'
 
