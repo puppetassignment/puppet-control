@@ -17,3 +17,7 @@ mod 'helloworld',
 
 mod 'profiles',
   :git => 'https://github.com/puppetassignment/profiles.git' 
+
+mod 'roles',
+  :git => 'https://github.com/puppetassignment/roles.git'
+
