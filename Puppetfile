@@ -12,6 +12,7 @@ mod 'puppetlabs/mysql'
 mod 'mayflower/php'
 mod 'puppetlabs/inifile'
 mod 'example42/yum'
+mod 'puppetlabs/ntp'
 
 
 mod 'helloworld',
