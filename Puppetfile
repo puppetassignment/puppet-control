@@ -13,7 +13,7 @@ mod 'mayflower/php'
 mod 'puppetlabs/inifile'
 mod 'example42/yum'
 mod 'puppetlabs/ntp'
-
+mod 'counsyl/windows'
 
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git',
