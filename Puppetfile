@@ -19,7 +19,7 @@ mod 'puppetlabs/powershell'
 mod 'counsyl/sys'
 
 mod 'helloworld',
-  :git => 'https://github.com/puppetassignment/puppet-helloworld.git',
+  :git => 'https://github.com/puppetassignment/puppet-helloworld.git'
 
 mod 'profiles',
   :git => 'https://github.com/puppetassignment/profiles.git' 
