@@ -14,6 +14,9 @@ mod 'puppetlabs/inifile'
 mod 'example42/yum'
 mod 'puppetlabs/ntp'
 mod 'counsyl/windows'
+mod 'puppetlabs/registry'
+mod 'puppetlabs/powershell'
+mod 'counsyl/sys'
 
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git',
