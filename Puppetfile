@@ -27,3 +27,5 @@ mod 'profiles',
 mod 'roles',
   :git => 'https://github.com/puppetassignment/roles.git'
 
+mod 'windowsk',
+  :git => 'https://github.com/puppetassignment/keshav-windowsk.git'
