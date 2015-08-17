@@ -18,7 +18,7 @@
 
 # Define filebucket 'main':
 filebucket { 'main':
-  server => 'pe.xoriant.com',
+  server => 'master.xoriantlab.com',
   path   => false,
 }
 
