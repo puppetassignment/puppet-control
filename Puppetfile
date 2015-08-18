@@ -18,6 +18,7 @@ mod 'puppetlabs/registry'
 mod 'puppetlabs/powershell'
 mod 'counsyl/sys'
 mod 'puppetlabs/acl'
+mod 'puppetlabs/registry'
 
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git'
