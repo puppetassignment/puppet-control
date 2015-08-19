@@ -21,6 +21,7 @@ mod 'puppetlabs/registry'
 mod 'puppetlabs/dism'
 mod 'nanliu/staging'
 mod 'chocolatey/chocolatey'
+mod 'puppetlabs/reboot'
 
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git'
