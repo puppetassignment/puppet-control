@@ -20,6 +20,7 @@ mod 'puppetlabs/acl'
 mod 'puppetlabs/registry'
 mod 'puppetlabs/dism'
 mod 'nanliu/staging'
+mod 'chocolatey/chocolatey'
 
 mod 'helloworld',
   :git => 'https://github.com/puppetassignment/puppet-helloworld.git'
